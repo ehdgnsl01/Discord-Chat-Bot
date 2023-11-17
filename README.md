@@ -1,4 +1,4 @@
-Tic-Tac_toe AI
+Discord AI Chat Bot
 ===========
 -----------------
 This is Unbeatable tic-tac-toe AI project. 😁  
