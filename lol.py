@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlretrieve
 import json
 import time
-from data import token, api_key
+from data import token, Riot_api_key
     
 
 async def on_message(message):
