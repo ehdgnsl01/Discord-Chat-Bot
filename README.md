@@ -20,7 +20,9 @@ LoL 전적검색, 유튜브 음악 재생 등이 가능합니다.
 ## 주요기능
 
 - LoL 전적검색
+  ![lol](https://github.com/ehdgnsl01/Discord-Chat-Bot/assets/70877444/1e540af8-7c2b-4cbe-9f92-ce098a1f50de)
 - 유튜브 음악 재생
+  ![music](https://github.com/ehdgnsl01/Discord-Chat-Bot/assets/70877444/15a3ed31-1df5-426b-b1f0-0937a013374f)
 
 ## 설치
 
