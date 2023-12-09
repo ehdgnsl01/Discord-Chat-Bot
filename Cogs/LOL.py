@@ -13,6 +13,7 @@ class LOL(commands.Cog):
         self.bot = bot
 
     @commands.command(name='티어')
+    #https://github.com/CuriHuS/lol-searcher/blob/main/riotapi.py
     async def get_tier(self, ctx, *, summoner_name):
         start = time.time()
 

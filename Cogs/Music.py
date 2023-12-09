@@ -1,5 +1,5 @@
 # This example requires the 'message_content' privileged intent to function.
- 
+# https://github.com/Rapptz/discord.py/blob/master/examples/basic_voice.py
 import asyncio
  
 import discord

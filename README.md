@@ -56,3 +56,5 @@ LoL 전적검색, 유튜브 음악 재생 등이 가능합니다.
 
 이 프로젝트는 MIT License를 사용합니다.  
 자세한 내용은 [LICENSE.md](LICENSE) 파일을 참고해 주세요.
+
+오픈소스는 [Copying.md](Copying) 파일을 참고해주세요.
